@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KVLanguageSwitcher_Tests' do
+  pod 'KVLanguageSwitcher', :path => '../'
+  
+  
+end
