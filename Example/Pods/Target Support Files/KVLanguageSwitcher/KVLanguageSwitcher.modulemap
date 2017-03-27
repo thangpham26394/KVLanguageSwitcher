@@ -1,0 +1,6 @@
+framework module KVLanguageSwitcher {
+  umbrella header "KVLanguageSwitcher-umbrella.h"
+
+  export *
+  module * { export * }
+}

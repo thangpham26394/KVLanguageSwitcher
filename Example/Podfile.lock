@@ -1,0 +1,16 @@
+PODS:
+  - KVLanguageSwitcher (0.1.0)
+
+DEPENDENCIES:
+  - KVLanguageSwitcher (from `../`)
+
+EXTERNAL SOURCES:
+  KVLanguageSwitcher:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KVLanguageSwitcher: e63a0f04077584cf548303fc559a73b56481a71d
+
+PODFILE CHECKSUM: 10cfb4c507675e6bebb0260cb2006acc3a0def1d
+
+COCOAPODS: 1.1.1
